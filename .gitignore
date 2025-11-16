@@ -1,0 +1,35 @@
+# Compiled executables
+main
+*.exe
+*.out
+*.o
+
+# Results and generated files
+results/
+figures/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# Build directories
+build/
+dist/
+
