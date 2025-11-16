@@ -1,0 +1,6 @@
+intervals,insert_time,findpom_time,delete_time
+100,11,0,3
+500,54,0,14
+1000,112,0,32
+5000,830,0,207
+10000,2024,0,480

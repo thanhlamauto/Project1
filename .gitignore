@@ -4,9 +4,6 @@ main
 *.out
 *.o
 
-# Results and generated files
-results/
-figures/
 
 # OS files
 .DS_Store
